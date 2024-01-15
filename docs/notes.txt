@@ -1,0 +1,58 @@
+GO FIGURE WHAT IS HERE LMAO 
+It all was important at some point so i dont delete a thing and maybe it will help
+
+- I think the Spectre Expansion Mod has a conflict in BioD_Nor_203CIC.pcc.
+- Miranda But Shot Restoration as well in BioD_CerMir_750Office_LOC_INT.pcc.
+- And Collectors Cabin in BioD_Nor_100Cabin.pcc
+
+Improvements and bugs to encounter in future:
+toggle for wakeup style at the party choosing (loud-quiet)
+Fix for the blackouts b4 cerBase
+Fix random partners swaps in dream b4 cerBase
+
+886 = ROM STEVE
+25353 - TL STEVE
+25354 - Thane
+25355 - Javik
+25356 - James flirt
+25357 - Garrus on party
+25358 - Tali on party
+25359 - Menu switch
+25360 - James light
+25361 - James wakeup
+
+BOOLS
+31500 - taligar
+31501 - jeal
+31502 - quiet
+31503 - James/Ash
+31504-31518 - Couch
+31519 - toggle multiparty
+31520 - encounter multiparty
+31521-31529 - TL projection
+
+INTS
+12479 - TL
+12480 - Hook
+
+OPTIONS
+Ashley
+Kaidan
+Liara
+Garrus
+Tali
+Traynor
+Steve
+Jack
+Mira
+Thane
+
+
+
+ANOTHER MOD IDEAS I BUMP IN
+
+- mess up with normandy memorial 1613+						BioD_Nor_300.pcc
+- banshee-morinth if samara loyalty failed 					1158
+- david its ok calm down -> text implications for Anderson + Mordin		BioD_CitApt_Anderson_LOC_INT.pcc
+- not pushing Garrus to Eve	KUMA 						BioD_Nor_370Medical_Geno_LOC_INT.pcc BioGame 5314
+- Bye-bye Kai Leng rush!

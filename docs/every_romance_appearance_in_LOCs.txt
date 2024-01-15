@@ -1,0 +1,178 @@
+Any romantic stuff goin on
++	BioA_Cat002_050Shuttle_LOC_INT.pcc DLC_METR_Patch01 32			romantic liara	
++	BioA_CitHub_Council_LOC_INT.pcc DLC_METR_Patch01 333 E8			romantic liara		
++	BioD_Cat001_000LevelTrans_LOC_INT.pcc DLC_METR_Patch01 1134		everybody can be flirty		
++	BioD_Cat004_625ProtoReaper_LOC_INT.pcc, log 40				Jack romatic
++	BioD_CitApt_Kaidan_LOC_INT.pcc DLC_METR_Patch01 2284			Romance accepted	
++	BioD_CitApt_Samara_LOC_INT.pcc DLC_METR_Patch01 2364			cond 3316 ok	
++	BioD_CitHub_Ash_Moment_LOC_INT.pcc BioGame 2668				romantic ash
++	BioD_CitHub_DockP3_LOC_INT.pcc DLC_METR_Patch01 2717			ash rom, kai trusted rom	
++	BioD_CitHub_Garrus_LOC_INT.pcc BioGame 2788				Gar rom
++	BioD_CitHub_HanarPlot_LOC_INT.pcc DLC_METR_Patch01 2796			Gar Rom (?)	
++	BioD_CitHub_HanarPlot2_LOC_INT.pcc BioGame 2803				
++	BioD_CitHub_HospitalP3_LOC_INT.pcc DLC_METR_Patch01 2865		Romance with Thane it was		
++	BioD_CitHub_Liara_Moment_LOC_INT.pcc BioGame 2892			Romantic Lia	
++	BioD_CitHub_Miranda_LOC_INT.pcc BioGame 2906				Romantic Mira ash?!?
++	BioD_CitHub_MirandaT2_LOC_INT.pcc BioGame 2911				Rom Mira
++	BioD_CitHub_PresidiumP2_LOC_INT.pcc DLC_METR_Patch01 2934		Player is romantic works ok lia romantic too		
++	BioD_CitHub_Tali1_LOC_INT.pcc BioGame 2957				Romantic Tali
++	BioD_CitHub_UnderbellyP2_LOC_INT.pcc DLC_METR_Patch01 2984 127		romantic Garrus, Kelly		
++	BioD_CitHub_UnderbellyP3_LOC_INT.pcc DLC_METR_Patch01 2994		romantic Kelly, Ashley		
++	BioD_End001_436CRMiranda_LOC_INT.pcc BioGame 3427			Mira Romantic	
++	BioD_Gth001_200Docking_LOC_INT.pcc BioGame 3825				142 flirt tali 144 flirt
++	BioD_Gth001_300GARDIAN_LOC_INT.pcc BioGame 3832				88 tali flirt
++	BioD_Gth001_350mainhall_LOC_INT.pcc BioGame 3837			Tali flirt	
++	BioD_Gth001_450Gethries_LOC_INT.pcc BioGame 3852			Talirom + flirt	
++	BioD_Gth001_560Gethries_LOC_INT.pcc BioGame 3872			Tali flirt	
++	BioD_Gth002_310OnFoot_LOC_INT.pcc BioGame 3940				Tali rom
++	BioD_Nor_201Bridge_LOC_INT.pcc DLC_EXP_Pack001 5028			Jacob jeal mira rom tali flirt 487 garrom	
++	BioD_Nor_203CIC_LOC_INT.pcc DLC_METR_Patch01 5063			Comm rom tl	a lot
++	BioD_Nor_500_LOC_INT.pcc DLC_EXP_Pack001 5385				Steve tl close
++	BioD_Nor_510CargoConv_LOC_INT.pcc BioGame 5392				steve rom
++	BioD_Cat004_025LogsConv_Laz_LOC_INT.pcc BioGame 1449 romantic no need to mod actually (refers to romantics) - sweet though
+
+old but gold
++	BioD_CitHub_001ProCit_LOC_INT.pcc BioGame 2628				old roms not actually trouble	
++	BioD_GthLeg_400Lab_LOC_INT.pcc DLC_METR_Patch01 3997			156 Tali me2		
++	BioD_KroGar_212CampConv3_LOC_INT.pcc BioGame 4406			me2 Gar rom		
++	BioD_Nor_110Tour_LOC_INT.pcc DLC_METR_Patch01 4953					
++	BioD_Nor_204Gth001_Intro_LOC_INT.pcc BioGame 5183			Tali rom2		
++	BioD_OmgJck_300MeetJack_LOC_INT.pcc DLC_METR_Patch01 6008		Jck rom me2		
++	BioD_OmgJck_320OrionPawns_LOC_INT.pcc	
++	BioD_OmgJck_340OrionConvo_LOC_INT.pcc BioGame 6030			Gar Rom me2 Jack rom me2		
++	BioD_OmgJck_650ShuttleExit_LOC_INT.pcc BioGame 6062			Jck rom me2 (?)		
++	BioD_ProEar_125Elevator_LOC_INT.pcc BioGame 6097					
++	BioD_ProMar_125Elevator_LOC_INT.pcc BioGame 6195			Romanced Me1		
++	BioD_ProMar_205BLiaraConv_LOC_INT.pcc BioGame 6211			Lia me1		
++	BioD_ProMar_210Parking_LOC_INT.pcc BioGame 6216				Lia ME1	
++	BioD_ProMar_310Cafeteria_LOC_INT.pcc BioGame 6237			Lia ME1		
++	BioD_ProMar_520A_Controls_LOC_INT.pcc BioGame 6265			ME1 KA		
+
+
+CATFIGHT edits
++	BioA_Gth001_000LevelTrans_LOC_INT.pcc DLC_METR_Patch01 481			tali catfights				
++	BioD_Cat002_600Archive_LOC_INT.pcc BioGame 1279 71				a bit of catfight			
++	BioD_Cat003_780FinalConvos_LOC_INT.pcc DLC_METR_Patch01 1424 976 possibly	delete any jealous stuff cause fuck it						
++	BioD_CerJcb_350FacilAmbs_LOC_INT.pcc BioGame 1618 151 Jacob catfight 156	jealous shit						
++	BioD_CitCas_510Jacob_LOC_INT.pcc DLC_METR_Patch01 2545				jeashit			
++	BioD_CitHub_Hospital_Ash_LOC_INT.pcc BioGame 2808				Ash Rom, Catfights			
++	BioD_CitHub_Hospital_Kai_LOC_INT.pcc BioGame 2818				Cheats Kai			
++	BioD_CitHub_HospitalP1_LOC_INT.pcc DLC_METR_Patch01 2845			Faith Kai eh				
++	BioD_CitHub_HospitalP2_LOC_INT.pcc DLC_METR_Patch01 2855			270 271 thane kai (?) remove dumptings?				
++	BioD_CitHub_Kai_Moment_LOC_INT.pcc BioGame 2887					Kai faith		
++	BioD_CitHub_WardsFluxP3_LOC_INT.pcc DLC_METR_Patch01 3045			281 Jack figure out 285 Steve				
++	BioD_Nor_310LiaraOfficeCon_LOC_INT.pcc						Lia lots (?)+ breakup + check later	
+
+
+TRUE LOVE\ROMANTIC edits (for PL consistensy)
++	BioD_Cat004_125HangarBay_LOC_INT.pcc BioGame 1467 7			Steve			
++	BioD_CerJcb_000LevelTrans_LOC_INT.pcc						
++	BioD_CerMir_100Landing_LOC_INT.pcc BioGame 1695						
++	BioD_CerMir_750Office_LOC_INT.pcc DLC_METR_Patch01 1814 713		Mira				
++	BioD_Cit004_180Umbillical_LOC_INT.pcc DLC_EXP_Pack003_Base 2118	Traynor	
+				
++	BioD_CitApt_000Global.pcc						all check
++	BioD_CitApt_Cortez_LOC_INT.pcc DLC_METR_Patch01 2250 (steals issue)	
++	BioD_CitApt_Jack_LOC_INT.pcc DLC_METR_Patch01 2268			Jack AND steve			
++	BioD_CitApt_Miranda_LOC_INT.pcc DLC_METR_Patch01 2300						
++	BioD_CitApt_Tali_LOC_INT.pcc DLC_METR_Patch01 2380			Tali TL		
+	
++	BioD_CitApt_Thane_LOC_INT.pcc DLC_METR_Patch01 2388			Thane rom 233 + rhhhh	
++	BioD_CitApt_Traynor_LOC_INT.pcc DLC_METR_Patch01 2396						
++	BioD_CitCas_400Cortez_LOC_INT.pcc DLC_METR_Patch01 2465						
++	BioD_CitCas_430Traynor_LOC_INT.pcc DLC_METR_Patch01 2481						
++	BioD_CitCas_440Garrus_LOC_INT.pcc DLC_METR_Patch01 2489			Gar
+			
++	BioD_CitCas_460Ashley_LOC_INT.pcc DLC_METR_Patch01 2505			Ash	
++	BioD_CitCas_470Miranda_LOC_INT.pcc DLC_METR_Patch01 2513						
++	BioD_CitSim_CrbrsJCK_LOC_INT.pcc DLC_METR_Patch01 3221			Jack			
++	BioD_End001_110LoadInterior_LOC_INT.pcc DLC_METR_Patch01 3326						
++	BioD_End001_200AAGun_LOC_INT.pcc BioGame 3333			
+			
++	BioD_End001_220ThamesBank_LOC_INT.pcc BioGame 33380			
++	BioD_End001_228CrashScene_LOC_INT.pcc BioGame 3344						
++	BioD_End001_430HubStreet2_LOC_INT.pcc BioGame 3386			Ash TL Kai TL			
++	BioD_End001_436CRCortez_LOC_INT.pcc DLC_METR_Patch01 3400						
++	BioD_End001_436CRJack_LOC_INT.pcc BioGame 3412	
+	
++	BioD_End001_436CRMiranda_LOC_INT.pcc	
++	BioD_End001_440Turians_LOC_INT.pcc BioGame 3447						
++	BioD_End001_460RoofInterior_LOC_INT.pcc DLC_METR_Patch01 3461		Lia tl				
++	BioD_End001_480CommandRoom_LOC_INT.pcc BioGame 3497						
++	BioD_Gth002_400Resolution_LOC_INT.pcc BioGame 3950			898 lot of tali	
+		
++	BioD_Lev004_100Surface_LOC_INT.pcc DLC_METR_Patch01 4816		Steve tl others accepted				
++	BioD_Lev004_320ShutDepart_LOC_INT.pcc DLC_METR_Patch01 4854		Steve tl others accepted				
++	BioD_MPRctr_050SPEntry_LOC_INT.pcc BioGame 4886						
++	BioD_MPRctr_150SPCmbt_LOC_INT.pcc BioGame 4901						
++	BioD_Nor_100CabinConv_LOC_INT.pcc DLC_METR_Patch01 4933			Got true love (?) comm romantic Tali hursh			
+	
++	BioD_Nor_204bAndersonHackett_LOC_INT.pcc DLC_METR_Patch01 5091		true_love bools check				
++	BioD_Nor_204Kro_LOC_INT.pcc BioGame 5188				Lia ME1		
++	BioD_Nor_204Kro002_Debrief_LOC_INT.pcc BioGame 5203			Gar ROm			
++	BioD_Nor_204Kro002_Debrief3_LOC_INT.pcc BioGame 5218			Rom died in me2			
++	BioD_Nor_300_Crit_LOC_INT.pcc BioGame 5228				Rom Gar + me1 stuff lia tali rom		
+
++	BioD_Nor_310LiaraOfficeCon2_LOC_INT.pcc DLC_EXP_Pack001 5259		Lia TL				
++	BioD_Nor_320Lounge_Crit_LOC_INT.pcc BioGame 5264			Me1 AK roms Mira roms			
++	BioD_Nor_320Lounge_Geth_LOC_INT.pcc BioGame 5269			Lia TL			
++	BioD_Nor_350StarboardObs_LOC_INT.pcc BioGame 5279			Gar rom			
++	BioD_Nor_350StarObs_Ash_LOC_INT.pcc DLC_EXP_Pack001 5287		Mira rom ash tl jack ugh ash rom
+				
++	BioD_Nor_350StarObs_Kai_LOC_INT.pcc DLC_EXP_Pack001 5297		Lia TL Kai tl kai rom Jacob cheat				
++	BioD_Nor_380MainBatteryCon_LOC_INT.pcc					ALOT of Gar	
++	BioD_Nor_380MainBatteryCon2_LOC_INT.pcc DLC_EXP_Pack001 5331		Gar tl				
++	BioD_Nor_405Engineering_LOC_INT.pcc DLC_EXP_Pack001 5343		taligar a bit (1 cnd to rule) tali tl tali rom				
++	BioD_Nor_415PortCargoConv_LOC_INT.pcc DLC_HEN_PR 5361			tali rom lia tl if has tl everybody tl							
+
+
+James Options????? How? (make "got true love" true yet not any personal?) (wanna hook up opt?)
++	BioD_CitApt_James_LOC_INT.pcc DLC_METR_Patch01 2276			no tl for flirt Liara TL, garrus or Kaidan - accept Steve Tali TL
+
+Culmination
+	BioD_Nor_600Cat4Intro.pcc 						to set it all
+	BioD_Nor_130RomLiara_LOC_INT.pcc BioGame 4960
+	BioD_Nor_130RomLiara2_LOC_INT.pcc BioGame 4965
+	BioD_Nor_131RomAshley_LOC_INT.pcc BioGame 4970
+	BioD_Nor_131RomAshley2_LOC_INT.pcc BioGame 4975
+	BioD_Nor_132RomKaidan_LOC_INT.pcc BioGame 4980
+	BioD_Nor_132RomKaidan2_LOC_INT.pcc BioGame 4985
+	BioD_Nor_133RomTali_LOC_INT.pcc BioGame 4990
+	BioD_Nor_134RomGarrus_LOC_INT.pcc BioGame 4995
+	BioD_Nor_135RomTraynor_LOC_INT.pcc DLC_METR_Patch01 5003
+	BioD_Nor_136RomCortez_LOC_INT.pcc BioGame 5010
+	BioD_Nor_137RomAlone_LOC_INT.pcc BioGame 5015
+
+
+End
+	BioD_End001_910RaceToConduit_LOC_INT.pcc DLC_CON_END 3632		195 tl hursh
++	BioD_End001_910RaceToConduit.pcc
+	ConditionalsDLC_CON_END.cnd
+
+
+PARTY
+	BioD_CitApt_PartyPhase1_LOC_INT.pcc DLC_METR_Patch01 2324		Holy SHIT ITS A LOT 256 257 254-55 (???) 263 eh 264 easy 267 lia 269 Traynor
+	BioD_CitApt_PartyPhase2Relax_LOC_INT.pcc DLC_METR_Patch01 2332		180 Traynor 183 Lia mira 184 Steve 185 Gar 187 Kai 195 Gar
+	BioD_CitApt_PartyPhase2Rowdy_LOC_INT.pcc DLC_METR_Patch01 2340		236 Traynor 242 Steve 248 Kai Lia - Jack Ash Mira non TL Lia non TL
++	BioD_CitApt_PartyPhase3Relax_LOC_INT.pcc DLC_METR_Patch01 2348		231 TL Ash 236 Lia 237 Mira 241 243 Gar 246 Gar Tali
++	BioD_CitApt_PartyPhase3Rowdy_LOC_INT.pcc DLC_METR_Patch01 2356		294 tl ash 309 jck tali Tray 310 tali tray gar jack steve 312 check 318 lia 319 mira
+	BioD_CitApt_PartyAftermath.pcc
+	BioD_CitApt_PartyAftermath_LOC_INT.pcc DLC_METR_Patch01 2316		a lot of stuff indeed
+	BioD_CitCas_530Goodbye_LOC_INT.pcc DLC_METR_Patch01 2569		IF it is TL or not ugh shit
+	BioD_CitCas_530GoodbyeFem.pcc
+	BioD_CitCas_530GoodbyeFem_LOC_INT.pcc DLC_METR_Patch01 2577
+	BioD_CitCas_530Goodbye.pcc
+
+CIT
+
++	BioD_CitApt_100Cit01Debrief_LOC_INT 					flirty line might be overwritten 
++	BioD_Cit001_200Wards_LOC_INT.pcc DLC_EXP_Pack003_Base 1844		holy crap wtf (true love stuff + a weird bunch of shit)
++	BioD_Cit001_300CarLot_LOC_INT.pcc DLC_EXP_Pack003_Base 1869		li on mission bool affects only so maybe its easy after all
+	cHECK UP WHAT AFFECTS WORDS AND APPEARANCE
+
++	BioD_CitApt_Liara_LOC_INT.pcc DLC_METR_Patch01 2292			TL Ash+Lia
++	BioD_CitApt_150Cit01Amb_LOC_INT.pcc DLC_METR_Patch01 2218               426 Gar TL 431 Kai Rom 433 Tali TL 435,6 Lia Ash TL    
++	BioD_CitApt_250Cit02Amb_LOC_INT.pcc DLC_METR_Patch01 2234		423 Ste TL 426 Gar TL 432 Lia TL 433 435,6 Lia Ash TL 
++	BioD_Cit002_100RedCarpet_LOC_INT.pcc DLC_METR_Patch01 1924 		everybooooody yeeeeah
++	BioD_Cit003_100Atrium_LOC_INT.pcc DLC_EXP_Pack003_Base 1978 1
++	BioD_Cit004_265BottomDeck_LOC_INT.pcc DLC_EXP_Pack003_Base 2143 
