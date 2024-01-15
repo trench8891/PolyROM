@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CoalesceAsset id="BioUI" name="bioui.ini" source="..\..\biogame\config\bioui.ini">
+	<Sections>
+		<Section name="sfxgamecontent.sfxguidata_modsettings_polyrom">
+			<Property name="confirmationmessageatextoverride" type="0">247370</Property>
+			<Property name="m_sratext" type="3">1800049</Property>
+			<Property name="m_srbtext" type="3">576055</Property>
+			<Property name="m_srtitle" type="3">9896506</Property>
+			<Property name="modsettingitemarray">
+				<Value type="3">(DisplayPlotBool=-31501,ApplySettingBools[0]=31501,ChoiceEntry=(srChoiceName=9896531,srChoiceDescription=9896533),Images[0]="Store_Images.PR_NoJ")</Value>
+				<Value type="3">(DisplayPlotBool=31501,ApplySettingBools[0]=-31501,ApplySettingBools[1]=-31502,ChoiceEntry=(srChoiceName=9896532,srChoiceDescription=9896534),Images[0]="Store_Images.PR_NoJ")</Value>
+				<Value type="3">(DisplayConditional=25359,ApplySettingBools[0]=31502,ChoiceEntry=(srChoiceName=9896535,srChoiceDescription=9896537),Images[0]="Store_Images.PR_Quiet")</Value>
+				<Value type="3">(DisplayPlotBool=31502,ApplySettingBools[0]=-31502,ChoiceEntry=(srChoiceName=9896536,srChoiceDescription=9896538),Images[0]="Store_Images.PR_Quiet")</Value>
+				<Value type="3">(SubMenuClassName="SFXGameContent.SFXGUIData_ModSettings_PolyROM_TL",ChoiceEntry=(srChoiceName=9896504,srChoiceDescription=9896525),Images[0]="Store_Images.PR_TL")</Value>
+				<Value type="3">(DisplayPlotBool=-31500,ApplySettingBools[0]=31500,ChoiceEntry=(srChoiceName=9896502,srChoiceDescription=9896528),Images[0]="Store_Images.PR_GT")</Value>
+				<Value type="3">(DisplayPlotBool=31500,ApplySettingBools[0]=-31500,ChoiceEntry=(srChoiceName=9896503,srChoiceDescription=9896529),Images[0]="Store_Images.PR_GT")</Value>
+				<Value type="3">(DisplayPlotBool=-31503,ApplySettingBools[0]=31503,ChoiceEntry=(srChoiceName=9896539,srChoiceDescription=9896541),Images[0]="Store_Images.PR_JA")</Value>
+				<Value type="3">(DisplayPlotBool=31503,ApplySettingBools[0]=-31503,ChoiceEntry=(srChoiceName=9896540,srChoiceDescription=9896542),Images[0]="Store_Images.PR_JA")</Value>
+			</Property>
+		</Section>
+		<Section name="sfxgamecontent.sfxguidata_modsettings_polyrom_couch">
+			<Property name="confirmationmessageatextoverride" type="0">247370</Property>
+			<Property name="m_sratext" type="3">1800049</Property>
+			<Property name="m_srbtext" type="3">576055</Property>
+			<Property name="m_srtitle" type="3">9896555</Property>
+			<Property name="modsettingitemarray">
+				<Value type="3">(DisplayPlotBool=31504,ChoiceEntry=(srChoiceName=9896545,srChoiceDescription=9896554),ApplySettingBools[0]=-31504, ApplySettingBools[1]=-31505, ApplySettingBools[2]=-31506, ApplySettingBools[3]=-31507, ApplySettingBools[4]=-31508, ApplySettingBools[5]=-31509, ApplySettingBools[6]=-31510, ApplySettingBools[7]=-31511, ApplySettingBools[8]=-31512, ApplySettingBools[9]=-31513, ApplySettingBools[10]=-31514, ApplySettingBools[11]=-31515, ApplySettingBools[12]=-31516, ApplySettingBools[13]=-31517, ApplySettingBools[14]=-31518, Images[0]="Store_Images.PR_TL1")</Value>
+				<Value type="3">(DisplayPlotBool=-31504,ChoiceEntry=(srChoiceName=9896545,bDisabled=true),Images[0]="Store_Images.PR_TL1")</Value>
+				<Value type="3">(DisplayPlotBool=31505,ChoiceEntry=(srChoiceName=9896546,bDisabled=true),Images[0]="Store_Images.PR_TL2")</Value>
+				<Value type="3">(DisplayPlotBool=-31505,ChoiceEntry=(srChoiceName=9896546,srChoiceDescription=9896554),ApplySettingBools[0]=31504, ApplySettingBools[1]=31505, ApplySettingBools[2]=-31506, ApplySettingBools[3]=-31507, ApplySettingBools[4]=-31508, ApplySettingBools[5]=-31509, ApplySettingBools[6]=-31510, ApplySettingBools[7]=-31511, ApplySettingBools[8]=-31512, ApplySettingBools[9]=-31513, ApplySettingBools[10]=-31514, ApplySettingBools[11]=-31515, ApplySettingBools[12]=-31516, ApplySettingBools[13]=-31517, ApplySettingBools[14]=-31518, Images[0]="Store_Images.PR_TL2")</Value>
+				<Value type="3">(DisplayPlotBool=31506,ChoiceEntry=(srChoiceName=9896547,bDisabled=true),Images[0]="Store_Images.PR_TL3")</Value>
+				<Value type="3">(DisplayPlotBool=-31506,ChoiceEntry=(srChoiceName=9896547,srChoiceDescription=9896554),ApplySettingBools[0]=31504, ApplySettingBools[1]=-31505, ApplySettingBools[2]=31506, ApplySettingBools[3]=-31507, ApplySettingBools[4]=-31508, ApplySettingBools[5]=-31509, ApplySettingBools[6]=-31510, ApplySettingBools[7]=-31511, ApplySettingBools[8]=-31512, ApplySettingBools[9]=-31513, ApplySettingBools[10]=-31514, ApplySettingBools[11]=-31515, ApplySettingBools[12]=-31516, ApplySettingBools[13]=-31517, ApplySettingBools[14]=-31518, Images[0]="Store_Images.PR_TL3")</Value>
+				<Value type="3">(DisplayPlotBool=31507,ChoiceEntry=(srChoiceName=9896548,bDisabled=true),Images[0]="Store_Images.PR_TL4")</Value>
+				<Value type="3">(DisplayPlotBool=-31507,ChoiceEntry=(srChoiceName=9896548,srChoiceDescription=9896554),ApplySettingBools[0]=31504, ApplySettingBools[1]=-31505, ApplySettingBools[2]=-31506, ApplySettingBools[3]=31507, ApplySettingBools[4]=-31508, ApplySettingBools[5]=-31509, ApplySettingBools[6]=-31510, ApplySettingBools[7]=-31511, ApplySettingBools[8]=-31512, ApplySettingBools[9]=-31513, ApplySettingBools[10]=-31514, ApplySettingBools[11]=-31515, ApplySettingBools[12]=-31516, ApplySettingBools[13]=-31517, ApplySettingBools[14]=-31518, Images[0]="Store_Images.PR_TL4")</Value>
+				<Value type="3">(DisplayPlotBool=31508,ChoiceEntry=(srChoiceName=9896549,bDisabled=true),Images[0]="Store_Images.PR_TL5")</Value>
+				<Value type="3">(DisplayPlotBool=-31508,ChoiceEntry=(srChoiceName=9896549,srChoiceDescription=9896554),ApplySettingBools[0]=31504, ApplySettingBools[1]=-31505, ApplySettingBools[2]=-31506, ApplySettingBools[3]=-31507, ApplySettingBools[4]=31508, ApplySettingBools[5]=-31509, ApplySettingBools[6]=-31510, ApplySettingBools[7]=-31511, ApplySettingBools[8]=-31512, ApplySettingBools[9]=-31513, ApplySettingBools[10]=-31514, ApplySettingBools[11]=-31515, ApplySettingBools[12]=-31516, ApplySettingBools[13]=-31517, ApplySettingBools[14]=-31518, Images[0]="Store_Images.PR_TL5")</Value>
+				<Value type="3">(DisplayPlotBool=31509,ChoiceEntry=(srChoiceName=9896550,bDisabled=true),Images[0]="Store_Images.PR_TL6")</Value>
+				<Value type="3">(DisplayPlotBool=-31509,ChoiceEntry=(srChoiceName=9896550,srChoiceDescription=9896554),ApplySettingBools[0]=31504, ApplySettingBools[1]=-31505, ApplySettingBools[2]=-31506, ApplySettingBools[3]=-31507, ApplySettingBools[4]=-31508, ApplySettingBools[5]=31509, ApplySettingBools[6]=-31510, ApplySettingBools[7]=-31511, ApplySettingBools[8]=-31512, ApplySettingBools[9]=-31513, ApplySettingBools[10]=-31514, ApplySettingBools[11]=-31515, ApplySettingBools[12]=-31516, ApplySettingBools[13]=-31517, ApplySettingBools[14]=-31518, Images[0]="Store_Images.PR_TL6")</Value>
+				<Value type="3">(DisplayPlotBool=31510,ChoiceEntry=(srChoiceName=9896551,bDisabled=true),Images[0]="Store_Images.PR_TL7")</Value>
+				<Value type="3">(DisplayPlotBool=-31510,ChoiceEntry=(srChoiceName=9896551,srChoiceDescription=9896554),ApplySettingBools[0]=31504, ApplySettingBools[1]=-31505, ApplySettingBools[2]=-31506, ApplySettingBools[3]=-31507, ApplySettingBools[4]=-31508, ApplySettingBools[5]=-31509, ApplySettingBools[6]=31510, ApplySettingBools[7]=-31511, ApplySettingBools[8]=-31512, ApplySettingBools[9]=-31513, ApplySettingBools[10]=-31514, ApplySettingBools[11]=-31515, ApplySettingBools[12]=-31516, ApplySettingBools[13]=-31517, ApplySettingBools[14]=-31518, Images[0]="Store_Images.PR_TL7")</Value>
+				<Value type="3">(DisplayPlotBool=31511,ChoiceEntry=(srChoiceName=9896552,bDisabled=true),Images[0]="Store_Images.PR_TL8")</Value>
+				<Value type="3">(DisplayPlotBool=-31511,ChoiceEntry=(srChoiceName=9896552,srChoiceDescription=9896554),ApplySettingBools[0]=31504, ApplySettingBools[1]=-31505, ApplySettingBools[2]=-31506, ApplySettingBools[3]=-31507, ApplySettingBools[4]=-31508, ApplySettingBools[5]=-31509, ApplySettingBools[6]=-31510, ApplySettingBools[7]=31511, ApplySettingBools[8]=-31512, ApplySettingBools[9]=-31513, ApplySettingBools[10]=-31514, ApplySettingBools[11]=-31515, ApplySettingBools[12]=-31516, ApplySettingBools[13]=-31517, ApplySettingBools[14]=-31518, Images[0]="Store_Images.PR_TL8")</Value>
+				<Value type="3">(DisplayPlotBool=31512,ChoiceEntry=(srChoiceName=9896553,bDisabled=true),Images[0]="Store_Images.PR_TL9")</Value>
+				<Value type="3">(DisplayPlotBool=-31512,ChoiceEntry=(srChoiceName=9896553,srChoiceDescription=9896554),ApplySettingBools[0]=31504, ApplySettingBools[1]=-31505, ApplySettingBools[2]=-31506, ApplySettingBools[3]=-31507, ApplySettingBools[4]=-31508, ApplySettingBools[5]=-31509, ApplySettingBools[6]=-31510, ApplySettingBools[7]=-31511, ApplySettingBools[8]=31512, ApplySettingBools[9]=-31513, ApplySettingBools[10]=-31514, ApplySettingBools[11]=-31515, ApplySettingBools[12]=-31516, ApplySettingBools[13]=-31517, ApplySettingBools[14]=-31518, Images[0]="Store_Images.PR_TL9")</Value>
+				<Value type="3">(DisplayPlotBool=31513,ChoiceEntry=(srChoiceName=9896557,bDisabled=true),Images[0]="Store_Images.PR_C1")</Value>
+				<Value type="3">(DisplayPlotBool=-31513,ChoiceEntry=(srChoiceName=9896557,srChoiceDescription=9896554),ApplySettingBools[0]=31504, ApplySettingBools[1]=-31505, ApplySettingBools[2]=-31506, ApplySettingBools[3]=-31507, ApplySettingBools[4]=-31508, ApplySettingBools[5]=-31509, ApplySettingBools[6]=-31510, ApplySettingBools[7]=-31511, ApplySettingBools[8]=-31512, ApplySettingBools[9]=31513, ApplySettingBools[10]=-31514, ApplySettingBools[11]=-31515, ApplySettingBools[12]=-31516, ApplySettingBools[13]=-31517, ApplySettingBools[14]=-31518, Images[0]="Store_Images.PR_C1")</Value>
+				<Value type="3">(DisplayPlotBool=31514,ChoiceEntry=(srChoiceName=9896558,bDisabled=true),Images[0]="Store_Images.PR_C2")</Value>
+				<Value type="3">(DisplayPlotBool=-31514,ChoiceEntry=(srChoiceName=9896558,srChoiceDescription=9896554),ApplySettingBools[0]=31504, ApplySettingBools[1]=-31505, ApplySettingBools[2]=-31506, ApplySettingBools[3]=-31507, ApplySettingBools[4]=-31508, ApplySettingBools[5]=-31509, ApplySettingBools[6]=-31510, ApplySettingBools[7]=-31511, ApplySettingBools[8]=-31512, ApplySettingBools[9]=-31513, ApplySettingBools[10]=31514, ApplySettingBools[11]=-31515, ApplySettingBools[12]=-31516, ApplySettingBools[13]=-31517, ApplySettingBools[14]=-31518, Images[0]="Store_Images.PR_C2")</Value>
+				<Value type="3">(DisplayPlotBool=31515,ChoiceEntry=(srChoiceName=9896559,bDisabled=true),Images[0]="Store_Images.PR_C3")</Value>
+				<Value type="3">(DisplayPlotBool=-31515,ChoiceEntry=(srChoiceName=9896559,srChoiceDescription=9896554),ApplySettingBools[0]=31504, ApplySettingBools[1]=-31505, ApplySettingBools[2]=-31506, ApplySettingBools[3]=-31507, ApplySettingBools[4]=-31508, ApplySettingBools[5]=-31509, ApplySettingBools[6]=-31510, ApplySettingBools[7]=-31511, ApplySettingBools[8]=-31512, ApplySettingBools[9]=-31513, ApplySettingBools[10]=-31514, ApplySettingBools[11]=31515, ApplySettingBools[12]=-31516, ApplySettingBools[13]=-31517, ApplySettingBools[14]=-31518, Images[0]="Store_Images.PR_C3")</Value>
+				<Value type="3">(DisplayPlotBool=31516,ChoiceEntry=(srChoiceName=9896560,bDisabled=true),Images[0]="Store_Images.PR_C4")</Value>
+				<Value type="3">(DisplayPlotBool=-31516,ChoiceEntry=(srChoiceName=9896560,srChoiceDescription=9896554),ApplySettingBools[0]=31504, ApplySettingBools[1]=-31505, ApplySettingBools[2]=-31506, ApplySettingBools[3]=-31507, ApplySettingBools[4]=-31508, ApplySettingBools[5]=-31509, ApplySettingBools[6]=-31510, ApplySettingBools[7]=-31511, ApplySettingBools[8]=-31512, ApplySettingBools[9]=-31513, ApplySettingBools[10]=-31514, ApplySettingBools[11]=-31515, ApplySettingBools[12]=31516, ApplySettingBools[13]=-31517, ApplySettingBools[14]=-31518, Images[0]="Store_Images.PR_C4")</Value>
+				<Value type="3">(DisplayPlotBool=31517,ChoiceEntry=(srChoiceName=9896561,bDisabled=true),Images[0]="Store_Images.PR_C5")</Value>
+				<Value type="3">(DisplayPlotBool=-31517,ChoiceEntry=(srChoiceName=9896561,srChoiceDescription=9896554),ApplySettingBools[0]=31504, ApplySettingBools[1]=-31505, ApplySettingBools[2]=-31506, ApplySettingBools[3]=-31507, ApplySettingBools[4]=-31508, ApplySettingBools[5]=-31509, ApplySettingBools[6]=-31510, ApplySettingBools[7]=-31511, ApplySettingBools[8]=-31512, ApplySettingBools[9]=-31513, ApplySettingBools[10]=-31514, ApplySettingBools[11]=-31515, ApplySettingBools[12]=-31516, ApplySettingBools[13]=31517, ApplySettingBools[14]=-31518, Images[0]="Store_Images.PR_C5")</Value>
+				<Value type="3">(DisplayPlotBool=31518,ChoiceEntry=(srChoiceName=9896562,bDisabled=true),Images[0]="Store_Images.PR_C6")</Value>
+				<Value type="3">(DisplayPlotBool=-31518,ChoiceEntry=(srChoiceName=9896562,srChoiceDescription=9896554),ApplySettingBools[0]=31504, ApplySettingBools[1]=-31505, ApplySettingBools[2]=-31506, ApplySettingBools[3]=-31507, ApplySettingBools[4]=-31508, ApplySettingBools[5]=-31509, ApplySettingBools[6]=-31510, ApplySettingBools[7]=-31511, ApplySettingBools[8]=-31512, ApplySettingBools[9]=-31513, ApplySettingBools[10]=-31514, ApplySettingBools[11]=-31515, ApplySettingBools[12]=-31516, ApplySettingBools[13]=-31517, ApplySettingBools[14]=31518, Images[0]="Store_Images.PR_C6")</Value>
+			</Property>
+		</Section>
+		<Section name="sfxgamecontent.sfxguidata_modsettings_polyrom_party">
+			<Property name="confirmationmessageatextoverride" type="0">247370</Property>
+			<Property name="m_sratext" type="3">1800049</Property>
+			<Property name="m_srbtext" type="3">576055</Property>
+			<Property name="m_srtitle" type="3">9896523</Property>
+			<Property name="modsettingitemarray">
+				<Value type="3">(DisplayPlotInt=(PlotIntId=-12480,PlotIntValue=0),ChoiceEntry=(srChoiceName=9896519,srChoiceDescription=9896520),ApplySettingInts[0]=(PlotIntId=12480,PlotIntValue=0),Images[0]="Store_Images.PR_Reset")</Value>
+				<Value type="3">(DisplayPlotInt=(PlotIntId=-12480,PlotIntValue=1),ChoiceEntry=(srChoiceName=9896521,srChoiceDescription=9896526),ApplySettingInts[0]=(PlotIntId=12480,PlotIntValue=1),Images[0]="Store_Images.PR_J")</Value>
+				<Value type="3">(DisplayPlotInt=(PlotIntId=12480,PlotIntValue=1),ChoiceEntry=(srChoiceName=9896521,bDisabled=true),Images[0]="Store_Images.PR_J")</Value>
+				<Value type="3">(DisplayPlotInt=(PlotIntId=-12480,PlotIntValue=3),ChoiceEntry=(srChoiceName=9896543,srChoiceDescription=9896544),ApplySettingInts[0]=(PlotIntId=12480,PlotIntValue=3),Images[0]="Store_Images.PR_J3")</Value>
+				<Value type="3">(DisplayPlotInt=(PlotIntId=12480,PlotIntValue=3),ChoiceEntry=(srChoiceName=9896543,bDisabled=true),Images[0]="Store_Images.PR_J3")</Value>
+				<Value type="3">(DisplayPlotInt=(PlotIntId=-12480,PlotIntValue=2),ChoiceEntry=(srChoiceName=9896522,srChoiceDescription=9896527),ApplySettingInts[0]=(PlotIntId=12480,PlotIntValue=2),Images[0]="Store_Images.PR_J2")</Value>
+				<Value type="3">(DisplayPlotInt=(PlotIntId=12480,PlotIntValue=2),ChoiceEntry=(srChoiceName=9896522,bDisabled=true),Images[0]="Store_Images.PR_J2")</Value>
+			</Property>
+		</Section>
+		<Section name="sfxgamecontent.sfxguidata_modsettings_polyrom_partyup">
+			<Property name="confirmationmessageatextoverride" type="0">247370</Property>
+			<Property name="m_sratext" type="3">1800049</Property>
+			<Property name="m_srbtext" type="3">576055</Property>
+			<Property name="m_srtitle" type="3">9896567</Property>
+			<Property name="modsettingitemarray">
+				<Value type="3">(SubMenuClassName="SFXGameContent.SFXGUIData_ModSettings_PolyROM_Party",ChoiceEntry=(srChoiceName=9896523,srChoiceDescription=9896524),Images[0]="DLC_MPImages.Party_IMG")</Value>
+				<Value type="3">(SubMenuClassName="SFXGameContent.SFXGUIData_ModSettings_PolyROM_Couch",ChoiceEntry=(srChoiceName=9896555,srChoiceDescription=9896556),Images[0]="Store_Images.PR_Couch")</Value>
+				<Value type="3">(DisplayPlotBool=-31519,ApplySettingBools[0]=31519,ChoiceEntry=(srChoiceName=9896564,srChoiceDescription=9896565),Images[0]="Store_Images.PR_Party")</Value>
+				<Value type="3">(DisplayPlotBool=31519,ApplySettingBools[0]=-31519,ChoiceEntry=(srChoiceName=9896563,srChoiceDescription=9896566),Images[0]="Store_Images.PR_Party")</Value>
+			</Property>
+		</Section>
+		<Section name="sfxgamecontent.sfxguidata_modsettings_polyrom_tl">
+			<Property name="confirmationmessageatextoverride" type="0">247370</Property>
+			<Property name="m_sratext" type="3">1800049</Property>
+			<Property name="m_srbtext" type="3">576055</Property>
+			<Property name="m_srtitle" type="3">9896504</Property>
+			<Property name="modsettingitemarray">
+				<Value type="3">(DisplayPlotInt=(PlotIntId=-12479,PlotIntValue=0),ChoiceEntry=(srChoiceName=9896507,srChoiceDescription=9896508),ApplySettingInts[0]=(PlotIntId=12479,PlotIntValue=0),Images[0]="Store_Images.PR_Reset")</Value>
+				<Value type="3">(DisplayPlotInt=(PlotIntId=-12479,PlotIntValue=1),ChoiceEntry=(srChoiceName=9896509,srChoiceDescription=9896530),ApplySettingInts[0]=(PlotIntId=12479,PlotIntValue=1),Images[0]="Store_Images.PR_TL1")</Value>
+				<Value type="3">(DisplayPlotInt=(PlotIntId=12479,PlotIntValue=1),ChoiceEntry=(srChoiceName=9896509,bDisabled=true),Images[0]="Store_Images.PR_TL1")</Value>
+				<Value type="3">(DisplayPlotInt=(PlotIntId=-12479,PlotIntValue=2),ChoiceEntry=(srChoiceName=9896510,srChoiceDescription=9896530),ApplySettingInts[0]=(PlotIntId=12479,PlotIntValue=2),Images[0]="Store_Images.PR_TL2")</Value>
+				<Value type="3">(DisplayPlotInt=(PlotIntId=12479,PlotIntValue=2),ChoiceEntry=(srChoiceName=9896510,bDisabled=true),Images[0]="Store_Images.PR_TL2")</Value>
+				<Value type="3">(DisplayPlotInt=(PlotIntId=-12479,PlotIntValue=3),ChoiceEntry=(srChoiceName=9896511,srChoiceDescription=9896530),ApplySettingInts[0]=(PlotIntId=12479,PlotIntValue=3),Images[0]="Store_Images.PR_TL3")</Value>
+				<Value type="3">(DisplayPlotInt=(PlotIntId=12479,PlotIntValue=3),ChoiceEntry=(srChoiceName=9896511,bDisabled=true),Images[0]="Store_Images.PR_TL3")</Value>
+				<Value type="3">(DisplayPlotInt=(PlotIntId=-12479,PlotIntValue=4),ChoiceEntry=(srChoiceName=9896512,srChoiceDescription=9896530),ApplySettingInts[0]=(PlotIntId=12479,PlotIntValue=4),Images[0]="Store_Images.PR_TL4")</Value>
+				<Value type="3">(DisplayPlotInt=(PlotIntId=12479,PlotIntValue=4),ChoiceEntry=(srChoiceName=9896512,bDisabled=true),Images[0]="Store_Images.PR_TL4")</Value>
+				<Value type="3">(DisplayPlotInt=(PlotIntId=-12479,PlotIntValue=5),ChoiceEntry=(srChoiceName=9896513,srChoiceDescription=9896530),ApplySettingInts[0]=(PlotIntId=12479,PlotIntValue=5),Images[0]="Store_Images.PR_TL5")</Value>
+				<Value type="3">(DisplayPlotInt=(PlotIntId=12479,PlotIntValue=5),ChoiceEntry=(srChoiceName=9896513,bDisabled=true),Images[0]="gStore_Images.PR_TL5")</Value>
+				<Value type="3">(DisplayPlotInt=(PlotIntId=-12479,PlotIntValue=6),ChoiceEntry=(srChoiceName=9896514,srChoiceDescription=9896530),ApplySettingInts[0]=(PlotIntId=12479,PlotIntValue=6),Images[0]="Store_Images.PR_TL6")</Value>
+				<Value type="3">(DisplayPlotInt=(PlotIntId=12479,PlotIntValue=6),ChoiceEntry=(srChoiceName=9896514,bDisabled=true),Images[0]="Store_Images.PR_TL6")</Value>
+				<Value type="3">(DisplayPlotInt=(PlotIntId=-12479,PlotIntValue=7),ChoiceEntry=(srChoiceName=9896515,srChoiceDescription=9896530),ApplySettingInts[0]=(PlotIntId=12479,PlotIntValue=7),Images[0]="Store_Images.PR_TL7")</Value>
+				<Value type="3">(DisplayPlotInt=(PlotIntId=12479,PlotIntValue=7),ChoiceEntry=(srChoiceName=9896515,bDisabled=true),Images[0]="Store_Images.PR_TL7")</Value>
+				<Value type="3">(DisplayPlotInt=(PlotIntId=-12479,PlotIntValue=8),ChoiceEntry=(srChoiceName=9896516,srChoiceDescription=9896530),ApplySettingInts[0]=(PlotIntId=12479,PlotIntValue=8),Images[0]="Store_Images.PR_TL8")</Value>
+				<Value type="3">(DisplayPlotInt=(PlotIntId=12479,PlotIntValue=8),ChoiceEntry=(srChoiceName=9896516,bDisabled=true),Images[0]="Store_Images.PR_TL8")</Value>
+				<Value type="3">(DisplayPlotInt=(PlotIntId=-12479,PlotIntValue=9),ChoiceEntry=(srChoiceName=9896517,srChoiceDescription=9896530),ApplySettingInts[0]=(PlotIntId=12479,PlotIntValue=9),Images[0]="Store_Images.PR_TL9")</Value>
+				<Value type="3">(DisplayPlotInt=(PlotIntId=12479,PlotIntValue=9),ChoiceEntry=(srChoiceName=9896517,bDisabled=true),Images[0]="Store_Images.PR_TL9")</Value>
+				<Value type="3">(DisplayPlotInt=(PlotIntId=-12479,PlotIntValue=10),ChoiceEntry=(srChoiceName=9896518,srChoiceDescription=9896530),ApplySettingInts[0]=(PlotIntId=12479,PlotIntValue=10),Images[0]="gui_codex_images.Codex.CDX_Drell_512x256")</Value>
+				<Value type="3">(DisplayPlotInt=(PlotIntId=12479,PlotIntValue=10),ChoiceEntry=(srChoiceName=9896518,bDisabled=true),Images[0]="gui_codex_images.Codex.CDX_Drell_512x256")</Value>
+			</Property>
+		</Section>
+		<Section name="sfxgamecontent.sfxguidata_modsettings_root">
+			<Property name="modsettingitemarray">
+				<Value type="3">(SubMenuClassName="SFXGameContent.SFXGUIData_ModSettings_PolyROM",ChoiceEntry=(srChoiceName=9896505,srChoiceDescription=9896506),Images[0]="Store_Images.PR_Thumb")</Value>
+				<Value type="3">(SubMenuClassName="SFXGameContent.SFXGUIData_ModSettings_PolyROM_PartyUP",ChoiceEntry=(srChoiceName=9896567,srChoiceDescription=9896568),Images[0]="Store_Images.PR_PartyUP")</Value>
+			</Property>
+		</Section>
+	</Sections>
+</CoalesceAsset>

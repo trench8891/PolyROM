@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CoalesceAsset id="BioCredits" name="biocredits.ini" source="..\..\biogame\config\biocredits.ini">
+	<Sections>
+		<Section name="configuration">
+			<Property name="basedon" type="0">..\..\BIOGame\DLC\DLC_Shared_MP\Config\DefaultDifficulty.ini</Property>
+		</Section>
+	</Sections>
+</CoalesceAsset>

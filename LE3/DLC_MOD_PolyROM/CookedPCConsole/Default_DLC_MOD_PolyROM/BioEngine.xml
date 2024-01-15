@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CoalesceAsset id="BioEngine" name="bioengine.ini" source="..\..\biogame\config\bioengine.ini">
+	<Sections>
+		<Section name="configuration">
+			<Property name="basedon" type="2">..\..\BIOGame\DLC\DLC_MOD_PolyROM\Config\DefaultEngine.ini</Property>
+		</Section>
+		<Section name="core.system">
+			<Property name="cookpaths">
+				<Value type="1">null</Value>
+				<Value type="2">..\..\BIOGame\DLC\DLC_MOD_PolyROM\Content</Value>
+				<Value type="2">..\..\BIOGame\DLC\DLC_MOD_PolyROM\Script</Value>
+				<Value type="2">..\..\BIOGame\DLC\DLC_MOD_PolyROM\ScriptFinalRelease</Value>
+			</Property>
+			<Property name="frscriptpaths">
+				<Value type="2">..\..\BIOGame\DLC\DLC_Shared\ScriptFinalRelease</Value>
+				<Value type="2">..\..\BIOGame\DLC\DLC_MOD_PolyROM\ScriptFinalRelease</Value>
+			</Property>
+			<Property name="paths">
+				<Value type="2">..\..\BIOGame\DLC\DLC_Shared\__Trashcan</Value>
+				<Value type="2">..\..\BIOGame\DLC\DLC_Shared\Content</Value>
+				<Value type="2">..\..\BIOGame\DLC\DLC_Shared\TestContent</Value>
+				<Value type="2">..\..\BIOGame\DLC\DLC_MOD_PolyROM\__Trashcan</Value>
+				<Value type="2">..\..\BIOGame\DLC\DLC_MOD_PolyROM\Content</Value>
+				<Value type="2">..\..\BIOGame\DLC\DLC_MOD_PolyROM\TestContent</Value>
+			</Property>
+			<Property name="scriptpaths">
+				<Value type="2">..\..\BIOGame\DLC\DLC_Shared\Script</Value>
+				<Value type="2">..\..\BIOGame\DLC\DLC_MOD_PolyROM\Script</Value>
+			</Property>
+			<Property name="seekfreepcpaths">
+				<Value type="2">..\..\BIOGame\DLC\DLC_Shared\CookedPCConsole</Value>
+				<Value type="2">..\..\BIOGame\DLC\DLC_MOD_PolyROM\CookedPCConsole</Value>
+			</Property>
+		</Section>
+		<Section name="sfxgame.sfxengine">
+			<Property name="dynamicloadmapping">
+				<Value type="3">(ObjectName="Store_Images.PR_C1",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="Store_Images.PR_C2",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="Store_Images.PR_C3",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="Store_Images.PR_C4",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="Store_Images.PR_C5",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="Store_Images.PR_C6",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="Store_Images.PR_Couch",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="Store_Images.PR_Party",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="Store_Images.PR_PartyUP",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="Store_Images.PR_Thumb",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="Store_Images.PR_NoJ",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="Store_Images.PR_Quiet",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="Store_Images.PR_TL",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="Store_Images.PR_GT",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="Store_Images.PR_JA",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="Store_Images.PR_J",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="Store_Images.PR_J2",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="Store_Images.PR_J3",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="Store_Images.PR_TL1",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="Store_Images.PR_TL2",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="Store_Images.PR_TL3",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="Store_Images.PR_TL4",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="Store_Images.PR_TL5",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="Store_Images.PR_TL6",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="Store_Images.PR_TL7",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="Store_Images.PR_TL8",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="Store_Images.PR_TL9",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="Store_Images.PR_Reset",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="SFXGameContent.SFXGUIData_ModSettings_PolyROM",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="SFXGameContent.SFXGUIData_ModSettings_PolyROM_Couch",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="SFXGameContent.SFXGUIData_ModSettings_PolyROM_Party",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="SFXGameContent.SFXGUIData_ModSettings_PolyROM_PartyUP",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+				<Value type="3">(ObjectName="SFXGameContent.SFXGUIData_ModSettings_PolyROM_TL",SeekFreePackageName="DLC_PolyROM_MenuSET")</Value>
+			</Property>
+		</Section>
+		<Section name="unrealed.editorengine">
+			<Property name="editpackages">
+				<Value type="2">SFXGameContentDLC_Shared</Value>
+				<Value type="2">SFXGameContentDLC_MOD_PolyROM</Value>
+			</Property>
+		</Section>
+	</Sections>
+</CoalesceAsset>

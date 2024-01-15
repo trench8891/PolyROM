@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CoalesceFile id="Default_DLC_MOD_PolyROM" name="Default_DLC_MOD_PolyROM.bin">
+	<Assets>
+		<Asset source="BioAI.xml" />
+		<Asset source="BioCredits.xml" />
+		<Asset source="BioDifficulty.xml" />
+		<Asset source="BioEngine.xml" />
+		<Asset source="BioGame.xml" />
+		<Asset source="BioInput.xml" />
+		<Asset source="BioUI.xml" />
+		<Asset source="BioWeapon.xml" />
+	</Assets>
+</CoalesceFile>

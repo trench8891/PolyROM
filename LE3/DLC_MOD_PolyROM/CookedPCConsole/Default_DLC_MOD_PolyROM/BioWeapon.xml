@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CoalesceAsset id="BioWeapon" name="bioweapon.ini" source="..\..\biogame\config\bioweapon.ini">
+	<Sections />
+</CoalesceAsset>

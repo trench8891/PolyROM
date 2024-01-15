@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CoalesceAsset id="BioInput" name="bioinput.ini" source="..\..\biogame\config\bioinput.ini">
+	<Sections>
+		<Section name="configuration">
+			<Property name="basedon" type="0">..\..\BIOGame\DLC\DLC_Shared\Config\DefaultInput.ini</Property>
+		</Section>
+	</Sections>
+</CoalesceAsset>
