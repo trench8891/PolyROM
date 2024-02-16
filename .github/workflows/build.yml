@@ -12,5 +12,6 @@ jobs:
           submodules: true
       - name: add local bats to path
         run: export PATH=/home/runner/work/PolyROM/PolyROM/test/bats/bin:$PATH
+      - run: echo $PATH
       - name: run tests
         run: bats -r /home/runner/work/PolyROM/PolyROM/test/tests
