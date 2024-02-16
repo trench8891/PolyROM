@@ -1,0 +1,21 @@
+# Building in our case is basically just running tests
+name: validate branch
+run-name: validating ${{ github.ref_name }}
+on: 
+  push:
+    branches-ignore: [main]
+  workflow_dispatch:
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    env:
+      BASE_BRANCH: origin/main
+    steps:
+      - name: checkout .version file
+        uses: actions/checkout@v4
+        with: 
+          fetch-depth: 0
+          sparse-checkout:: |
+            .version
+      - name: validate version
+        run: ./bin/validate_version.sh
