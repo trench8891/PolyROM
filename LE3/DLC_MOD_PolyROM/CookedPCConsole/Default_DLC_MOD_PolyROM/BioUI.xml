@@ -4,7 +4,7 @@
 		<Section name="sfxgamecontent.sfxguidata_modsettings_polyrom">
       <!-- "Apply -->
 			<Property name="confirmationmessageatextoverride" type="0">247370</Property>
-			<!-- blorp? -->
+			<!-- ??? -->
       <Property name="m_sratext" type="3">1800049</Property>
       <!-- "Close" -->
 			<Property name="m_srbtext" type="3">576055</Property>
