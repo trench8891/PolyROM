@@ -11,4 +11,4 @@ jobs:
         with: 
           submodules: true
       - name: run tests
-        run: /home/runner/work/PolyROM/PolyROM/test/bats/bin/bats -r /home/runner/work/PolyROM/PolyROM/test/tests
+        run: ./test/bats/bin/bats -r test/tests
