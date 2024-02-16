@@ -10,5 +10,6 @@ jobs:
         uses: actions/checkout@v4
         with: 
           submodules: true
+          fetch-depth: 0
       - name: run tests
         run: ./test/bats/bin/bats -r test/tests
