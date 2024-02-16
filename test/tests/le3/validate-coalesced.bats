@@ -41,7 +41,7 @@ setup() {
 }
 
 @test "coalesced and unpacked coalesed diffs aligned" {
-	diff_files="$(git diff --name-only main)"
+	diff_files="$(git diff --name-only ${BASE_BRANCH:-main})"
 	unpacked_changed=false
 	coalesced_changed=false
 

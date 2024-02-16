@@ -5,6 +5,8 @@ on: [push, workflow_dispatch]
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      BASE_BRANCH: origin/main
     steps:
       - name: checkout repo
         uses: actions/checkout@v4
