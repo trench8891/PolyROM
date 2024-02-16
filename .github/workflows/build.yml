@@ -1,0 +1,16 @@
+# Building in our case is basically just running tests
+name: build
+run-name: building ${{ github.ref_name }}
+on: [push, workflow_dispatch]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v4
+        with: 
+          submodules: true
+      - name: add local bats to path
+        run: export PATH=test/bats/bin:$PATH
+      - name: run tests
+        run: bats -r test/tests
