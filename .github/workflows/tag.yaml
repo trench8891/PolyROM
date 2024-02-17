@@ -1,0 +1,16 @@
+# Create a new tag when pushing to main
+name: create tag
+run-name: creating new tag
+on: 
+  push:
+    branches: [main]
+jobs:
+  tag:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v4
+      - name: create tag
+        run: git tag $(cat .version)
+      - name: push tag
+        run: git push origin $(cat .version)

@@ -1,4 +1,4 @@
-# Building in our case is basically just running tests
+# Validating branch correctness essentially is just making sure the version is incremented
 name: validate branch
 run-name: validating ${{ github.ref_name }}
 on: 
@@ -11,11 +11,9 @@ jobs:
     env:
       BASE_BRANCH: origin/main
     steps:
-      - name: checkout .version file
+      - name: checkout repo
         uses: actions/checkout@v4
         with: 
           fetch-depth: 0
-          sparse-checkout:: |
-            .version
       - name: validate version
         run: ./bin/validate_version.sh
