@@ -54,6 +54,7 @@ if [[ "main" != "${currnet_branch}" ]]; then
 		echo "major version is not correct!"
 		exit 1
 	fi
+	echo "version seems valid"
+else
+	echo "on main, skip version check"
 fi
-
-echo "version seems valid"

@@ -1,4 +1,4 @@
-# Building in our case is basically just running tests
+# run tests then either validate version incremented on branches or create tag on main
 name: build
 run-name: building ${{ github.ref_name }}
 on: [push, workflow_dispatch]
@@ -15,3 +15,7 @@ jobs:
           fetch-depth: 0
       - name: run tests
         run: ./test/bats/bin/bats -r test/tests
+      - name: validate version
+        run: ./bin/validate_version.sh
+      - name: tag version
+        run: ./bin/tag.sh
