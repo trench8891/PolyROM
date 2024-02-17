@@ -2,7 +2,7 @@
 
 current_branch="$(git branch --show-current)"
 base_branch="${BASE_BRANCH:-main}"
-if [[ "main" != "${currnet_branch}" ]]; then
+if [[ "main" != "${current_branch}" ]]; then
 	cur_major="$(cat .version | sed 's/\.[0-9]\{1,255\}\.[0-9]\{1,255\}//')"
 	cur_minor="$(cat .version | sed 's/[0-9]\{1,255\}\.//' | sed 's/\.[0-9]\{1,255\}//')"
 	cur_patch="$(cat .version | sed 's/[0-9]\{1,255\}\.[0-9]\{1,255\}\.//')"
@@ -54,6 +54,7 @@ if [[ "main" != "${currnet_branch}" ]]; then
 		echo "major version is not correct!"
 		exit 1
 	fi
+	echo "version seems valid"
+else
+	echo "on main, skip version check"
 fi
-
-echo "version seems valid"
