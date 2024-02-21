@@ -21,7 +21,11 @@
         <Value type="3">(DisplayPlotBool=31502,ApplySettingBools[0]=-31502,ChoiceEntry=(srChoiceName=9896536,srChoiceDescription=9896538),Images[0]="Store_Images.PR_Quiet")</Value>
 				<!-- ""True love" setup option" -->
         <Value type="3">(SubMenuClassName="SFXGameContent.SFXGUIData_ModSettings_PolyROM_TL",ChoiceEntry=(srChoiceName=9896504,srChoiceDescription=9896525),Images[0]="Store_Images.PR_TL")</Value>
-				<!-- "Tali and Garrus romance - disabled" -->
+				<!-- "Culmination Galore - disabled" -->
+        <Value type="3">(DisplayPlotBool=-33227,ApplySettingBools[0]=33227,ChoiceEntry=(srChoiceName=9896569,srChoiceDescription=9896571),Images[0]="Store_Images.PR_Thumb")</Value>
+        <!-- "Culmination Galore - ENABLED" -->
+        <Value type="3">(DisplayPlotBool=33227,ApplySettingBools[0]=-33227,ChoiceEntry=(srChoiceName=9896570,srChoiceDescription=9896571),Images[0]="Store_Images.PR_Thumb")</Value>
+        <!-- "Tali and Garrus romance - disabled" -->
         <Value type="3">(DisplayPlotBool=-31500,ApplySettingBools[0]=31500,ChoiceEntry=(srChoiceName=9896502,srChoiceDescription=9896528),Images[0]="Store_Images.PR_GT")</Value>
 				<!-- "Tali and Garrus romance - ENABLED" -->
         <Value type="3">(DisplayPlotBool=31500,ApplySettingBools[0]=-31500,ChoiceEntry=(srChoiceName=9896503,srChoiceDescription=9896529),Images[0]="Store_Images.PR_GT")</Value>
