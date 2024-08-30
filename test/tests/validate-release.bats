@@ -7,6 +7,14 @@ setup() {
 	le3mod_version="$(cat LE3/moddesc.ini | grep modver | awk '{print $3}')"
 }
 
+@test "all bin files are executable" {
+	for file in bin/*
+	do
+		permission="$(stat -c "%A" ${file})"
+		assert_equal "${file} ${permission}" "${file} -rwxr-xr-x"
+	done
+}
+
 @test "version file exists" {
 	assert_file_exists '.version'
 }
