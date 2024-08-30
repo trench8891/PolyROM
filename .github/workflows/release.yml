@@ -1,0 +1,24 @@
+# remove dev-only files and then package up as artifact to include with a release
+name: release
+run-name: creating release of ${{ github.ref_name }}
+on: [workflow_dispatch]
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v4
+        with:
+          submodules: false
+          fetch-depth: 0
+      - name: pack artifact
+        run: ./bin/pack.sh
+      - name: read version
+        run: echo "VERSION=$(cat .version)" >> $GITHUB_ENV
+      - name: create release
+        uses: ncipollo/release-action@v1
+        with:
+          tag: {{ env.VERSION }}
+          artifacts: "PolyRomanceMod.tar"
+          generateReleaseNotes: true
+          skipIfReleaseExists: true
