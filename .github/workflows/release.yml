@@ -13,10 +13,12 @@ jobs:
           fetch-depth: 0
       - name: pack artifact
         run: ./bin/pack.sh
+      - name: read version
+        run: echo "VERSION=$(cat .version)" >> $GITHUB_ENV
       - name: create release
         uses: ncipollo/release-action@v1
         with:
-          tag: "TODO SET UP TO RECEIVE INPUT AND USE A SPECIFIC TAG"
+          tag: {{ env.VERSION }}
           artifacts: "PolyRomanceMod.tar"
           generateReleaseNotes: true
           skipIfReleaseExists: true
