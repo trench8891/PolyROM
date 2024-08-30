@@ -10,7 +10,7 @@ setup() {
 @test "all bin files are executable" {
 	for file in bin/*
 	do
-		permission="$(stat -f "%Sp" ${file})"
+		permission="$(stat -c "%A" ${file})"
 		assert_equal "${file} ${permission}" "${file} -rwxr-xr-x"
 	done
 }
