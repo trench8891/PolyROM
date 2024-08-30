@@ -8,4 +8,4 @@ mkdir "PolyRomanceMod"
 mv LE3/ PolyRomanceMod/
 
 # compress files
-tar -cvf PolyRomanceMod.tar PolyRomanceMod/
+tar -cavf PolyRomanceMod.rar PolyRomanceMod/
