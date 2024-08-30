@@ -1,0 +1,16 @@
+# remove dev-only files and then package up as artifact to include with a release
+name: release
+run-name: creating release of ${{ github.ref_name }}
+on: [workflow_dispatch]
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v4
+        with:
+          submodules: false
+          fetch-depth: 0
+      - name: remove dev files
+      - name: create release artifact
+      - name: create release
