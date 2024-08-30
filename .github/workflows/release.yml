@@ -11,6 +11,12 @@ jobs:
         with:
           submodules: false
           fetch-depth: 0
-      - name: remove dev files
-      - name: create release artifact
+      - name: pack artifact
+        run: ./bin/pack.sh
       - name: create release
+        uses: ncipollo/release-action@v1
+        with:
+          tag: "TODO SET UP TO RECEIVE INPUT AND USE A SPECIFIC TAG"
+          artifacts: "PolyRomanceMod.tar"
+          generateReleaseNotes: true
+          skipIfReleaseExists: true
